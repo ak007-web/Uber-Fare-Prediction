@@ -1,0 +1,13 @@
+{
+  "model": "GradientBoostingRegressor",
+  "split": "chronological 80% train / 20% test",
+  "clean_rows": 192130,
+  "train_rows": 153704,
+  "test_rows": 38426,
+  "train_end_utc": "2014-02-19T12:51:00+00:00",
+  "test_start_utc": "2014-02-19T13:06:00+00:00",
+  "baseline_mae": 6.5435,
+  "mae": 2.5139,
+  "rmse": 4.4868,
+  "r2": 0.8335
+}
